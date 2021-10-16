@@ -16,6 +16,6 @@ You will also see any lint errors in the console.
 
 ## SAMPLE OUTPUT
 !(https://github.com/mpravalikashetty/FANDOM-QUIZ-REACT-APP/blob/main/src/AppSample/img1.png)
-!()
-!(http://url/to/img3.png)
-!(http://url/to/img4.png)
+!(https://github.com/mpravalikashetty/FANDOM-QUIZ-REACT-APP/blob/main/src/AppSample/img2.png)
+!(https://github.com/mpravalikashetty/FANDOM-QUIZ-REACT-APP/blob/main/src/AppSample/img3.png
+!(https://github.com/mpravalikashetty/FANDOM-QUIZ-REACT-APP/blob/main/src/AppSample/img4.png)
