@@ -15,7 +15,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## SAMPLE OUTPUT
-!(http://url/to/img1.png)
-!(http://url/to/img2.png)
+!(https://github.com/mpravalikashetty/FANDOM-QUIZ-REACT-APP/blob/main/src/AppSample/img1.png)
+!()
 !(http://url/to/img3.png)
 !(http://url/to/img4.png)
